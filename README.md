@@ -1,22 +1,29 @@
-# 👋 Hi, I'm José Silva  
+👋 Hi, I'm José Silva
 
-### 🚀 Future AI Engineer | Python | Machine Learning | LLMs
+🚀 Front-end Engineer in training | HTML | CSS | JavaScript | TypeScript | React
 
-I'm currently transitioning into the tech world and building my foundations in Python, Artificial Intelligence and Machine Learning.  
-I document my learning journey here on GitHub, sharing code, exercises and projects as I progress.
+I'm currently transitioning into the tech world and building strong foundations in modern front-end development.
 
-### 🔧 Technologies I'm learning:
-- Python
+I document my learning journey here on GitHub, sharing code, exercises and projects as I continue to grow and improve my skills.
+
+🔧 Technologies I'm learning:
+
+-Browser DevTools
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+- React
 - Git & GitHub
-- Data Structures
-- AI & ML (soon)
-- Automation & Cloud Fundamentals (future)
+- Front-end Development Fundamentals
 
-### 🎯 Goals for 2025–2026:
-- Complete Python foundations  
-- Finish AI Engineer Program at FLAG/Rumos  
-- Build a strong AI/ML portfolio  
-- Start working remotely as an AI Engineer  
+🎯 Goals for 2026:
+
+- Complete my Front-end Engineer bootcamp
+- Build real-world front-end projects
+- Create a strong portfolio on GitHub
+- Start working professionally as a Front-end Engineer
+
 
 ### 📫 Where to find me:
 LinkedIn: www.linkedin.com/in/josé-silva-21a119399
