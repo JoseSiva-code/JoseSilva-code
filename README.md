@@ -8,6 +8,7 @@ I document my learning journey here on GitHub, sharing code, exercises and proje
 
    Technologies I'm learning:
 
+- Front-end Development Fundamentals
 - Browser DevTools
 - Git & GitHub
 - HTML5
@@ -15,7 +16,6 @@ I document my learning journey here on GitHub, sharing code, exercises and proje
 - JavaScript
 - TypeScript
 - React
-- Front-end Development Fundamentals
 
    Goals for 2026:
 
