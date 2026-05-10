@@ -9,12 +9,12 @@ I document my learning journey here on GitHub, sharing code, exercises and proje
    Technologies I'm learning:
 
 - Browser DevTools
+- Git & GitHub
 - HTML5
 - CSS3
 - JavaScript
 - TypeScript
 - React
-- Git & GitHub
 - Front-end Development Fundamentals
 
    Goals for 2026:
