@@ -8,7 +8,7 @@ I document my learning journey here on GitHub, sharing code, exercises and proje
 
    Technologies I'm learning:
 
--Browser DevTools
+- Browser DevTools
 - HTML5
 - CSS3
 - JavaScript
